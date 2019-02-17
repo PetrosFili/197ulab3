@@ -1,0 +1,3 @@
+I am another file,
+also with three lines.
+This is the third line, so I go no further.
