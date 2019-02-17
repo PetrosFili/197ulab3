@@ -1,0 +1,2 @@
+This file was added to the repository through the Windows host!
+The others were added from the virtual machine command line using git!
